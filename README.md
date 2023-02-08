@@ -7,8 +7,6 @@ Os arquivos main_jsonDB.py e registration.py representam o funcionamento da API 
 
 O aqruivo main_postgreSQL.py representa o funcionamento da API utilizando o BD projetado com prostgre.
 
-Todas as regras de negócio apresentadas no desafio foram cumpridas, entretanto haveria ainda muitas outras regras para garantir o funcionamento correto da API em todos os cenários possíveis, evitando retornos indesejados pro usuário ou programador. 
-
 Regras de negócio garantidas:
 
 Customer: 
