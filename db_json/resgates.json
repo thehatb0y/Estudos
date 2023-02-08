@@ -1,0 +1,10 @@
+{
+    "resgates": [
+        {
+            "id": 1,
+            "planId": 1,
+            "resgateValue": 1000,
+            "resgateDate": "2022-01-01"
+        }
+    ]
+}

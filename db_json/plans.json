@@ -1,0 +1,11 @@
+{
+    "plans": [
+        {
+            "id": 1,
+            "customerId": 1,
+            "productId": 1,
+            "aporte": 7000,
+            "hiringDate": "2022-01-01"
+        }
+    ]
+}

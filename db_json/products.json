@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nome": "Brasilprev Longo Prazo",
+            "susep": "15414.900840/2018-17",
+            "expiracaoDeVenda": "2024-01-01",
+            "valorMinimoAporteInicial": 1000,
+            "valorMinimoAporteExtra": 100,
+            "idadeDeEntrada": 18,
+            "idadeDeSaida": 60,
+            "carenciaInicialDeResgate": 60,
+            "carenciaEntreResgates": 30
+        }
+    ]
+}

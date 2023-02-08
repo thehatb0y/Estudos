@@ -1,0 +1,22 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "cpf": 456456456090,
+            "nome": "Jose da Silva",
+            "email": "jose@cliente.com",
+            "dataDeNascimento": "2015-08-19",
+            "sexo": "M",
+            "rendaMensal": 2899.5
+        },
+        {
+            "id": 2,
+            "cpf": 45645992201,
+            "nome": "Mateus Cordova",
+            "email": "mat@mat.com",
+            "dataDeNascimento": "1991-08-19",
+            "sexo": "M",
+            "rendaMensal": 2899.5
+        }
+    ]
+}
